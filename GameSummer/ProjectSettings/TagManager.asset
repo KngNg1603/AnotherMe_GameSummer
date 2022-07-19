@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  - Platform
+  - HiddenBlock
+  - FallingObject
+  - On-Off_Object
+  - ClearObject
+  - Breakable
+  - Off_Object
+  - On_Object
+  - Ice
+  - SpikeBall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - 
+  - Player
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back Ground
+    uniqueID: 170835705
+    locked: 0
+  - name: Trap
+    uniqueID: 3216248119
+    locked: 0
+  - name: Wall
+    uniqueID: 1946333525
+    locked: 0
+  - name: Ground
+    uniqueID: 3703562301
+    locked: 0
+  - name: Player
+    uniqueID: 2814329057
+    locked: 0
+  - name: Liquid
+    uniqueID: 2145078137
+    locked: 0
